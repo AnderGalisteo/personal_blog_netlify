@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Ander Galisteo
+tagline: Engineer, Ph.D., MBA and cybersecurity expert.
+featuredImage: assets/ander_galisteo.webp
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+He is an award winning engineer, Ph.D. and MBA and other nice things.
