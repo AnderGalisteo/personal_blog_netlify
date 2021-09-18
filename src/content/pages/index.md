@@ -3,10 +3,11 @@ template: index-page
 slug: /
 title: Ander Galisteo
 tagline: Engineer, Ph.D., MBA and cybersecurity expert.
-featuredImage: assets/ander_galisteo.webp
+featuredImage: assets/ander_galisteo.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
 
-He is an award winning engineer, Ph.D. and MBA and other nice things.
+He is an award winning engineer, Ph.D. and MBA, with a great experience in industrial embedded systems and cybersecutiry. More info [here](https://www.andergalisteo.com)
+
