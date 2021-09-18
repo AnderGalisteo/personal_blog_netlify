@@ -9,5 +9,5 @@ cta:
   ctaLink: /about
 ---
 
-He is an award winning engineer, Ph.D. and MBA, with a great experience in industrial embedded systems and cybersecutiry. More info [here](https://www.andergalisteo.com)
+He is an award winning engineer, Ph.D. and MBA, with a great experience in industrial embedded systems and cybersecutiry. More info at [www.andergalisteo.com](https://www.andergalisteo.com)
 
