@@ -7,7 +7,32 @@ description: The internet is two
 featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
 ---
 
-When I explain how the internet works to my students, it is usually 
+# Note
+
+This article does not provide a book definition of Internet, but more of a real world not so precise easily undestandable definition.
+
+The internet is, whitout a doubt, the greatest invention of humankind. It brings thousands, millions of people together. For free, at any place and time. It spread information and knowledge as well as entertainment, allowing for unlimited learning and sharing of information. This information sharing has allowed to the fastest development humankind has seen in all its history.
+
+How does internet work? How does it do what it does? This is usually the first thing I explain to my students in my networking class. And I usually start the explanation by saying that there is not only one internet but two.
+
+# Internet 1
+
+Everyone has a router at home. This router is a device that allows data to be redirected to somewhere else. It usually goes first to another router in your building, then to another in your block and so on and so forth.
+
+When we think about an internet connection, we think about connecting two devices. Take you smartphone as an example. When it connects to someone else's smartphone, the data goes through WiFi to your router and then to another router and to another until it reaches the other smartphone.
+
+
+
+
+
+
+
+
+
+
+
+
+
 In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
 
 Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
