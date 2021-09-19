@@ -1,12 +1,13 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
-date: 2020-05-23 23:40
-description: How to draw a character
+title: The internet is two
+slug: /the-internet-is-two
+date: 2021-09-20 23:40
+description: The internet is two
 featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
 ---
 
+When I explain how the internet works to my students, it is usually 
 In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
 
 Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.

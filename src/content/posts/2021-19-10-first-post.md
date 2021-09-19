@@ -3,7 +3,7 @@ template: blog-post
 title: First post
 slug: /first-post
 date: 2021-19-10T00:00:00.000Z
-description: sdasd
+description: Hello world first post!
 featuredImage: /assets/hello-world.jpg
 ---
 
