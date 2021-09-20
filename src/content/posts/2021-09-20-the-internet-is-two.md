@@ -19,7 +19,17 @@ How does internet work? How does it do what it does? This is usually the first t
 
 Everyone has a router at home. This router is a device that allows data to be redirected to somewhere else. It usually goes first to another router in your building, then to another in your block and so on and so forth.
 
-When we think about an internet connection, we think about connecting two devices. Take you smartphone as an example. When it connects to someone else's smartphone, the data goes through WiFi to your router and then to another router and to another until it reaches the other smartphone.
+When we think about an internet connection, we think about connecting two devices. Take you smartphone as an example. When it connects to someone else's smartphone, the data goes through WiFi to your router and then to another router and to another until it reaches the other smartphone. The network that allows to do this is what I call the first internet. Networks connected to other networks and and protocols to redirect the messages. In fact, usually there is more than one possible way for a message to be redirected, so if a particular link is lost, the communication can still continue.
+
+If we look at the origins of the internet, it was designed to be able to resist attack to single facilities, as its main objective was to decentralize the available information. The routers used nowadays to forward the trafic belong to Internet Service Providers and specialized companies which business core is to forward traffic. 
+
+In my opinion, the biggest beauty that this internet has is that it allows to multiple technologies to be used. We have devices connected through wire, cellular networks, satellites, etc. It is scalable and configurable. Probably the biggest system developed by humankind. Simply amazing.
+
+# Internet 2
+
+Nevertheless, in order to stablish a connection we need a minimum of two users, one at each end. In one end we have our device, our computer, smartphone or tablet. But what is at the other end? It depends on who we are talking with.
+
+If we are having a P2P connection, we are directly connected to 
 
 
 
