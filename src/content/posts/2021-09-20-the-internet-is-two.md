@@ -4,7 +4,7 @@ title: The internet is two
 slug: /the-internet-is-two
 date: 2021-09-20 23:40
 description: The internet is two
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+featuredImage: /assets/internet_two.png
 ---
 
 # Note
