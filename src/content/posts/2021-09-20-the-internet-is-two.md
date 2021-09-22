@@ -29,7 +29,7 @@ In my opinion, the most significant beauty that this Internet has is that it is 
 
 # Internet 2
 
-![Servers](/assets/server-internet.jpg "A nice picture of the cloud.")
+![Servers](/assets/server_internet.jpg "A nice picture of the cloud.")
 
 Nevertheless, to establish a connection, we need a minimum of two users, one at each end. On one end, we have our device, our computer, smartphone, or tablet. But what is at the other end? It depends on who is on the other end.
 
