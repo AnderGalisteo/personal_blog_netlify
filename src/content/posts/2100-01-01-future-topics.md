@@ -9,7 +9,7 @@ featuredImage: /assets/junior-ferreira-7esRPTt38nI-unsplash.jpg
 
 # Topics for the future!
 
-Collaborative book on Github. (Inspired by https://github.com/SystemsApproach/tcpcc)
+Collaborative book on Github. (Inspired by https://github.com/SystemsApproach/tcpcc and https://gist.github.com/bmcbride/62600e48274961819084)
 
 What are embedded devices?
 
